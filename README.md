@@ -41,7 +41,6 @@ React hooks para gerenciar dispositivos de mídia, permissões e streams para ap
 - ✅ **TypeScript** - Totalmente tipado para melhor experiência de desenvolvimento
 - ✅ **Câmera traseira** - Suporte preferencial para câmera "environment" em dispositivos móveis
 
-[... resto do README permanece igual ...]
 
 ## 📄 Licença
 
