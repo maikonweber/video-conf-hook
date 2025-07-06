@@ -26,7 +26,7 @@ React hooks para gerenciar dispositivos de mídia, permissões e streams para ap
         <sub><b>Bruno Croh</b></sub>
       </a>
       <br />
-      <sub>Co-criador & Desenvolvedor</sub>
+      <sub> Criador & Desenvolvedor</sub>
     </td>
   </tr>
 </table>
